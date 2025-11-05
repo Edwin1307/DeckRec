@@ -1,0 +1,1 @@
+trophies= int(input("Enter your trophy count:"))
